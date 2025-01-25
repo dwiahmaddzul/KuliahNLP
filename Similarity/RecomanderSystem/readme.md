@@ -23,8 +23,8 @@ Aplikasi ini adalah sistem rekomendasi berita berbasis **Machine Learning** yang
 ## 🚀 Cara Menggunakan
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/username/repository-name.git
-   cd repository-name
+   git clone `github.com/dwiahmaddzul/KuliahNLP/edit/main/Similarity/RecomanderSystem.git`
+   cd RecomanderSystem
    ```
 
 2. **Install Dependencies**
